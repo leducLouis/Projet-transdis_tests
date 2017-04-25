@@ -1,14 +1,9 @@
 package test_swing;
-import javax.swing.JFrame;
 
 public class test {
+	public static void main(String[] args){
 
-	 
-	  public static void main(String[] args){
-
-	    Fenetre fen = new Fenetre();
+	    Window_home fen = new Window_home();
 	  }       
 	}
-	
-
 
